@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinsuh02
+- 👋 Hi, I’m jinsuh02
 - 👀 I’m interested in ... watching anime!
 - 🌱 I’m currently learning ... CS majoring
 - 💞️ I’m looking to collaborate on ... any basic projects!!
